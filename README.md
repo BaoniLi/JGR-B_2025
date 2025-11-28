@@ -1,4 +1,5 @@
-##
-## 2. the uploaded codes contain all results and figures production processes as well as those in the supporting information and response letter to reviewers.
-## 3. the pre-processed datasets are uploaded at .
-## 4. 
+## this is the data and code availability clarification for manuscript: Divergent Subtropical Forest Functional and Structural Responses to the 2022 Yangtze River Extreme Drought.
+## 1. the uploaded codes contain all results and figures production processes as well as those in the supporting information and response letter to reviewers.
+## 2. the original datasets are: Land cover data is acquired from MCD12C1v061 at https://doi.org/10.5067/MODIS/MCD12C1.061. Precipitation is gridded dataset from https://data.tpdc.ac.cn/en/data/e5c335d9-cbb9-48a6-ba35-d67dd614bb8c. Net solar radiation is obtained from ERA5-Land hourly data at https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview. Soil moisture is from SMAP-derived 1 km downscaled surface soil moisture product at https://doi.org/10.5067/U8QZ2AXE5V7B. Temperature and relative humidity gauge data is from https://www.cma.gov.cn/en/. NDVI is MOD13A1v061 at https://doi.org/10.5067/MODIS/MOD13A1.061. SIF is CSIF product from https://cstr.cn/18406.11.Ecolo.tpdc.271751. LAI is HiQ-LAI v1.1 product at https://zenodo.org/records/12615116.
+## 3. the pre-processed datasets are uploaded at: 
+## 4. the pre-processed datasets can be used directly for computation and plot in the code, including temportal and spatial coordinated vegetation indices and hydroclimatic variables, polyline or ploygon shape files of boundaries, and pixel masks.
